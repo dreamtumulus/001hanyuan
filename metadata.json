@@ -1,0 +1,8 @@
+{
+  "name": "001最新版警心卫士 - 警员思想动态AI分析系统",
+  "description": "一个专为警务系统设计的警员心理健康与思想动态AI分析平台，集成体检AI研判、隐蔽式心理测评、战术性心理疏导及全维度政工报告生成功能。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
